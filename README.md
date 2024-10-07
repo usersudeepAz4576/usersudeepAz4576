@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Sudeepa N S
-- 👀 I’m interested in Problem solving
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on Development Projects
 - 📫 Contact: ssudeepans@gmail.com
 - 😄 Pronouns: HE/HIM
 
